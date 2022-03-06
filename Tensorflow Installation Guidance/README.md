@@ -65,9 +65,15 @@ You need to open the environment setup panel, and config the **path** variable, 
 
 ![Config env variable](./img/config_env_var3.png)
 
+This is the pop up window you should have.
+
 ![Config env variable](./img/config_env_var4.png)
 
+Double click to edit the path variable.
+
 ![Config env variable](./img/config_env_var5.png)
+
+Click add button on the top right corner to add your cuda paths!
 
 ```plantText
 # if you download the same package as I do, then the following path should be the same.
@@ -103,4 +109,4 @@ print("GPU is", "available" if tf.test.is_gpu_available() else "NOT AVAILABLE") 
 
 This thing is too complicating and annoying, I hope there will be a better tutorial to help programmers, data science to install all dependencies more efficiently. Because running locally is more trusty and easy to monitor the progress.
 
-I believe nobody would like to spends tons of time to do their big project on Colab and keep Colab session not expired for hours, days, even month!
+I believe nobody would like to spends tons of time to do big project on Colab and keep Colab session not expired for hours, days, even month!
