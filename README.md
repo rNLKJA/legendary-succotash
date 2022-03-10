@@ -1,7 +1,5 @@
 # legendary-succotash
-This repository use to store [COMP30024 course materials](https://handbook.unimelb.edu.au/2022/subjects/comp30024) and workshop practice materials.
-
-More course information, please visit unimelb handbook.
+This repository use to store [COMP30024 course materials](https://handbook.unimelb.edu.au/2022/subjects/comp30024) and workshop practice materials. More course information, please visit unimelb handbook.
 
 To visit notes, please visit via [notion](https://huangsunchuangyu.notion.site/COMP30024-Artificial-Intelligence-ec2e2b9bf1d54d49b95bfa927eee0d08). Everyone could comment on this notion page.
 
