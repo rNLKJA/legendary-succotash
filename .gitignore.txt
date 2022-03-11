@@ -1,6 +1,0 @@
-# ignore MacOS cash files
-.DS_Store
-
-# ignore jupyter environment setting / cash files
-.virtual_documents
-.ipynb_checkpoints
