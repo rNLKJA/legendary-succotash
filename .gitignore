@@ -4,3 +4,11 @@
 # ignore jupyter environment setting / cash files
 .virtual_documents
 .ipynb_checkpoints
+
+# ignore COMP20008 related notebooks and materials
+challenge.ipynb
+challenge_json.json
+
+# ignore dataset
+dogs_vs_cats/
+dogs_vs_cats_test/
