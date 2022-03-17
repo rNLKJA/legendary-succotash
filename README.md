@@ -9,8 +9,8 @@ This repository also store the DeepLearning.AI course materials which I currentl
 - [Repository Info](#legendary-succotash)
 - [Lecture schedule](#lecture-schedule)
 - [Workshop content](#workshop-content)
-- [Project A](#COMP30022 project-a)
-- [Project B](#COMP30022 project-b)
+- [COMP30022 Project A](#project-a)
+- [COMP30022 Project B](#project-b)
 
 ## Lecture schedule
 - [Week 1: What is AI? Intelligent Agents](https://www.notion.so/Week-1-What-is-AI-Intelligent-Agents-d87fd6b16dd94558a8b867947f0cd8d8)
