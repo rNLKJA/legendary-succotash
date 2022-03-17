@@ -7,7 +7,7 @@ This repository also store the DeepLearning.AI course materials which I currentl
 
 ## Table of Content
 - [Repository Info](#legendary-succotash)
-- [Coursera DeepLearning.AI](#deeplearningai)
+- [Coursera DeepLearning.AI](#deeplearningai-tensorflow-developer-professional-certificate)
   - [Course 1 Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](#introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning)
   - [Course 2 Convolutional Neural Networks in TensorFlow](#convolutional-neural-networks-in-tensorflow)
   - [Course 3 Natural Language Processing in TensorFlow](#natural-language-processing-in-tensorflow)
@@ -20,7 +20,7 @@ This repository also store the DeepLearning.AI course materials which I currentl
 
  
 
-## DeepLearning.AI
+## DeepLearning.AI TensorFlow Developer Professional Certificate
 
 ### Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
