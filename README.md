@@ -70,6 +70,15 @@ This repository also store the DeepLearning.AI course materials which I currentl
 ### Workshop content
 - [Week 2: Agent Types and Environments](https://www.notion.so/huangsunchuangyu/Week-2-61f59979a0b54ad89fa3f2bda71f3818)
 - [Week 3: Searching Methods](https://www.notion.so/huangsunchuangyu/Week-3-a968351eed9449e483ffa9d86c4903f6)
+- [Week 4: ]()
+- [Week 5: ]()
+- [Week 6: ]()
+- [Week 7: ]()
+- [Week 8: ]()
+- [Week 9: ]()
+- [Week 10: ]()
+- [Week 11: ]()
+- [Week 12: ]()
 
 ### Project A
 
