@@ -50,6 +50,15 @@ python3 main.py
 
 ## A* Search vs. Djistra Search
 
+## Project Tasks Tracking
+- [x] Find a group partner [@EcZww](https://github.com/EcZww)
+- [ ] Understand A* heuristic algorithm
+- [ ] Path finding strategy design
+- [ ] Code tasks
+- [ ] Report writing
+- [ ] Complete states check
+- [ ] Final Code & Report Submission
+
 ## Project Part A Breif Report
 
 ## Project Part B Brief Report
