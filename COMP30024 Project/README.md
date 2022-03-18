@@ -37,6 +37,9 @@ Most of algorithm and code logic and structure are implemented via a jupyter not
 To test the completed code, please run the line below.
 
 ```
+# activate conda environment first
+conda activate COMP30024
+
 # run the main program
 python3 main.py
 ```
