@@ -9,25 +9,9 @@ This repository also store the DeepLearning.AI course materials which I currentl
 - [Repository Info](#legendary-succotash)
 - [Coursera DeepLearning.AI](#deeplearningai-tensorflow-developer-professional-certificate)
   - [Course 1 Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](#introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning)
-    - [Week 1 A new programming paradigm](https://www.notion.so/huangsunchuangyu/Week-1-A-new-programming-paradigm-0d73c02714f94665b1fd7d210657f797) 
-    - [Week 2 Introduction to Computer Vision](https://www.notion.so/huangsunchuangyu/Week-2-Introduction-to-Computer-Vision-552d263730a34c9eb8d2df511df691c1)
-    - [Week 3 Enhancing Vision with Convolutional Neural Networks](https://www.notion.so/huangsunchuangyu/Week-3-Enhancing-Vision-with-Convolutional-Neural-Networks-30ff012a774c4fae99ef635add3ea499)
-    - [Week 4 Using  Real-World Images](https://www.notion.so/huangsunchuangyu/Week-4-Using-Real-World-Images-56144335308b46438ac51f18b1ad0542)
   - [Course 2 Convolutional Neural Networks in TensorFlow](#convolutional-neural-networks-in-tensorflow)
-    - [Week 1 Exploring a Larger Dataset]() 
-    - [Week 2 Augmentation: A technique to avoid overfitting]()
-    - [Week 3 Transfer Learning]()
-    - [Week 4 Multiclass Classification]()
   - [Course 3 Natural Language Processing in TensorFlow](#natural-language-processing-in-tensorflow)
-    - [Week 1 Notes]() 
-    - [Week 2 Notes]()
-    - [Week 3 Notes]()
-    - [Week 4 Notes]()
   - [Course 4 Sequences, Time Series and Prediction](#sequences-time-series-and-prediction) 
-    - [Week 1 Notes]() 
-    - [Week 2 Notes]()
-    - [Week 3 Notes]()
-    - [Week 4 Notes]()
 - [COMP30024 Artificial Intelligence](#comp30024-artificial-intelligence)
   - [Lecture schedule](#lecture-schedule)
   - [Workshop Content](#workshop-content)
@@ -40,11 +24,31 @@ This repository also store the DeepLearning.AI course materials which I currentl
 
 ### Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
+- [Week 1 A new programming paradigm](https://www.notion.so/huangsunchuangyu/Week-1-A-new-programming-paradigm-0d73c02714f94665b1fd7d210657f797) 
+- [Week 2 Introduction to Computer Vision](https://www.notion.so/huangsunchuangyu/Week-2-Introduction-to-Computer-Vision-552d263730a34c9eb8d2df511df691c1)
+- [Week 3 Enhancing Vision with Convolutional Neural Networks](https://www.notion.so/huangsunchuangyu/Week-3-Enhancing-Vision-with-Convolutional-Neural-Networks-30ff012a774c4fae99ef635add3ea499)
+- [Week 4 Using  Real-World Images](https://www.notion.so/huangsunchuangyu/Week-4-Using-Real-World-Images-56144335308b46438ac51f18b1ad0542)
+
 ### Convolutional Neural Networks in TensorFlow
+
+- [Week 1 Exploring a Larger Dataset]() 
+- [Week 2 Augmentation: A technique to avoid overfitting]()
+- [Week 3 Transfer Learning]()
+- [Week 4 Multiclass Classification]()
 
 ### Natural Language Processing in TensorFlow
 
+- [Week 1 Notes]() 
+- [Week 2 Notes]()
+- [Week 3 Notes]()
+- [Week 4 Notes]()
+
 ### Sequences, Time Series and Prediction
+
+- [Week 1 Notes]() 
+- [Week 2 Notes]()
+- [Week 3 Notes]()
+- [Week 4 Notes]()
 
 
 ## COMP30024 Artificial Intelligence
