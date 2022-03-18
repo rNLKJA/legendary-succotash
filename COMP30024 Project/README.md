@@ -4,9 +4,10 @@
 
 ## Project Part A: Searching
 
-This part of project will solve a simple search-based problem on _Cachex_ game board by implmeneting a heuristic, A* path finding algorithm.  
+This part of project will solve a simple search-based problem on _Cachex_ game board by implmeneting a heuristic, A\* path finding algorithm.
 
 The aims for Project Part A is build a agent that:
+
 - refresh Pyhon programming skills
 - explore algorithms learned in lecture
 - familiar with Cachex
@@ -17,10 +18,9 @@ The aims for Project Part A is build a agent that:
 
 Cachex is a perfect-information two-player game played on an n×nrhombic, hexagonally tiled board, based on the strategy game Hex. Two players (named Red and Blue) compete, with the goal to form a connection between the opposing sides of the board corresponding to their respective color. More information please check **[AI_chachex_spec.pdf]("https://github.com/chuangyu-hscy/legendary-succotash/blob/master/COMP30024%20Project/COMP30024%20Project%20Part%20A/specification/AI_cachex_spec.pdf")**.
 
-
 ## Project Dependencies
 
-Due to science faculty assessment marking constraints that the tests will run with **python 3.6** on the student **Unix** machines. 
+Due to science faculty assessment marking constraints that the tests will run with **python 3.6** on the student **Unix** machines.
 Hence authors using conda to build the working environment.
 
 ```bash
@@ -46,13 +46,14 @@ conda activate COMP30024
 python3 main.py
 ```
 
-## A* Search Algorithm
+## A\* Search Algorithm
 
-## A* Search vs. Djistra Search
+## A\* Search vs. Djistra Search
 
 ## Project Tasks Tracking
+
 - [x] Find a group partner [@EcZww](https://github.com/EcZww)
-- [ ] Understand A* heuristic algorithm
+- [ ] Understand A\* heuristic algorithm
 - [ ] Path finding strategy design
 - [ ] Code tasks
 - [ ] Report writing
@@ -67,4 +68,4 @@ python3 main.py
 
 <p>More notes about the project is available on <a href='https://www.notion.so/huangsunchuangyu/Project-Part-A-97ad43542a9a42d39433a14d834102f8'><img height=20 src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt='notion'></a></p>
 
-Project license is available at [HERE](https://github.com/chuangyu-hscy/legendary-succotash/blob/master/LICENSE). Please notice this repository won't be pulic until Unimelb 2022 Semester 1 COMP30024 course ends. For academic intergrity and your honesty, please notice that all code fragments should not directly copy paste to your code. In other cases all codes under folder `COMP30024 Project` are followed by MIT LICENSE. 
+Project license is available at [HERE](https://github.com/chuangyu-hscy/legendary-succotash/blob/master/COMP30024%20Project/LICENSE). Please notice this repository won't be pulic until Unimelb 2022 Semester 1 COMP30024 course ends. For academic intergrity and your honesty, please notice that all code fragments should not directly copy paste to your code. In other cases all codes under folder `COMP30024 Project` are followed by MIT LICENSE.
